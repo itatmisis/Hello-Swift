@@ -10,4 +10,4 @@
 
 # // Домашняя работа 1
 
-💈 Assets для дз: [👉 клик 👈] (https://github.com/itatmisis/Hello-Swift/blob/main/I%20Am%20Poor%20Image%20Assets.zip)
+💈 Assets для дз: [👉 клик 👈](https://github.com/itatmisis/Hello-Swift/blob/main/I%20Am%20Poor%20Image%20Assets.zip)
