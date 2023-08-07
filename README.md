@@ -1,4 +1,4 @@
-![image](https://static.vecteezy.com/system/resources/previews/005/238/011/non_2x/illustration-of-swift-programming-language-code-displayed-on-three-monitor-in-a-row-at-programmer-workspace-free-vector.jpg)
+![image](https://github.com/itatmisis/Hello-Swift/blob/main/01.png?raw=true)
 # Hello-Swift
 Этот репозиторий создан для ITAM курса "Hello, Swift!"
 
