@@ -1,4 +1,3 @@
-![image](https://github.com/itatmisis/Hello-Swift/blob/main/01.png?raw=true)
 # Hello-Swift
 Этот репозиторий создан для ITAM курса "Hello, Swift!"
 
